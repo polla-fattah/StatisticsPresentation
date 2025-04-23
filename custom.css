@@ -1,0 +1,17 @@
+
+
+ * {
+  font-size: 25px  !important;
+  text-align: left !important;
+}
+
+
+
+/* Center only h1 titles (first header per slide) */
+.reveal .slides section  h1,
+.reveal .slides section  h2 {
+  text-align: center !important;
+  font-size: 32px  !important;
+  font-weight: bold  !important;
+
+}
